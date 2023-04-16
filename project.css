@@ -1,0 +1,220 @@
+body
+{
+    background-image: url();
+}
+
+h1 , h3
+{
+    font-family: sans-serif;
+    
+}
+p
+{
+    font-family: sans-serif;
+}
+.st
+{
+     position: absolute;
+    top: 125px;
+    border: 2px solid #DDD;
+    left: 980px;
+    width: 180px;
+    height: 190px;
+}
+#stt
+{
+    width:185px;
+}
+.pst
+{
+    text-align: center;
+    margin-top: -25px;
+}
+.h0
+{
+ position: absolute;
+    top: 50px;
+    left: 500px;
+    
+}
+.cl
+{
+ position: absolute;
+    left: 565px;
+    top: 275px
+}
+.t
+{
+    position: absolute;
+    top: 730px;
+    left: 640px;
+}
+h1
+{
+  text-align: center;   
+}
+.nav{
+    position: fixed;
+    z-index: 2;
+    top: 0;
+    left 0; 
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 50px;
+  background-color: red;
+    
+}
+img{
+    width: 125px;
+   
+     
+}
+
+
+#omar
+{
+    position:relative;
+    top:120px;
+    
+    border: 1px solid #ddd
+}
+#omarp
+{
+    position:absolute;
+    left: 130px;
+    top: 100px
+}
+#tet
+{
+    border: 1px solid #ddd;
+     position: absolute;
+    top: 350px;
+}
+#tetp
+{
+  position:absolute;
+    top: 345px;
+    left: 110px;
+    
+}
+#sh
+{
+     width: 125px;
+    height: 158px;
+    position: absolute;
+    top: 358px;
+    left:650px;
+    border: 1px solid #ddd;
+    
+}
+#shp
+{
+position: absolute;
+    top:330px;
+    left: 790px;
+}
+#beb
+{
+ border: 1px solid #ddd; 
+    position: absolute;
+    top: 540px;
+}
+#bebp
+{
+  position: absolute;
+    top: 510px;
+    left: 125px;
+}
+#tre
+{
+    height: 156px;
+    position: absolute;
+    top:535px;
+    left:650px;
+    border: 1px solid #ddd;
+}
+#trep
+{
+    position: absolute;
+    top: 500px;
+    left :770px;
+}
+#leg
+{
+   width: 300px; 
+    position: absolute;
+    left:20px;
+    
+}
+#legN
+{
+   position: absolute;
+    left: 170px;
+    top:1025px;
+   
+}
+#cup
+{
+    width: 300px; 
+    position: absolute;
+    left:550px;
+}
+#cupN
+{
+     position: absolute;
+    left:690px;
+    top:1035px;
+}
+#caf
+{
+  width: 285px; 
+    position: absolute;
+    left:1040px;  
+}
+#cafN
+{
+   position: absolute;
+    left:1170px;
+    top:1030px;
+}  
+#legh , #cuph ,#cafh
+{
+    position: absolute;
+    top: 810px;
+}
+#leg , #cup ,#caf
+{
+   position: absolute;
+    top:810px;  
+}
+#legh
+{
+    position: absolute;
+left: 70px;    
+}
+#cuph
+{
+    position: absolute;
+left: 640px;    
+}
+#cafh
+{
+    position: absolute;
+left: 1080px;    
+}
+#tet , #omar , #tre , #beb ,#sh
+{
+    border: 2px solid #ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
